@@ -36,4 +36,4 @@ Please note that this project is governed by our Code of Conduct. By participati
 
 ## Questions?
 
-Feel free to reach out to our team at info@sprintlab.com
+Feel free to reach out to our team at sprintlab.my@gmail.com
