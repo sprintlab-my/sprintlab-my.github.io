@@ -1,20 +1,20 @@
 name: Profile README
 
 on:
-push:
-branches:
-- main
-schedule:
-- cron: '0 0 * * 0'  # Weekly update
-workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly update
+  workflow_dispatch:
 
 jobs:
-build:
-runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
-      
+
       - name: Verify README
         run: |
           if [ ! -f README.md ]; then
@@ -22,10 +22,10 @@ runs-on: ubuntu-latest
             exit 1
           fi
           echo "✅ README.md verified"
-          
+
       - name: Check Links
         run: echo "✅ Profile links verified"
-        
+
       - name: Commit changes
         if: always()
         run: |
