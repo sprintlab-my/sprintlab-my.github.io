@@ -228,7 +228,7 @@ Our team is composed of passionate professionals including:
 
 ### Get In Touch
 
-📧 **Email:** sprintlab.my@gmail.com  
+📧 **Email:** sprintlab.my+ghinfo@gmail.com  
 📱 **Phone:** +60 (0)3 XXXX XXXX  
 🌐 **Website:** www.sprintlab.com  
 📍 **Address:** Kuala Lumpur, Malaysia
@@ -245,7 +245,7 @@ Our team is composed of passionate professionals including:
 
 Ready to transform your ideas into reality?
 
-**[Schedule a Consultation](mailto:sprintlab.my@gmail.com?subject=Project%20Inquiry%20-%20SprintLab)** | **[View Our Portfolio](https://sprintlab.com/portfolio)** | **[Download Brochure](https://sprintlab.com/brochure.pdf)**
+**[Schedule a Consultation](mailto:sprintlab.my%2Bghinfo@gmail.com?subject=Project%20Inquiry%20-%20SprintLab)** | **[View Our Portfolio](https://sprintlab.com/portfolio)** | **[Download Brochure](https://sprintlab.com/brochure.pdf)**
 
 ---
 
